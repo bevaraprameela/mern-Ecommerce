@@ -1,44 +1,13 @@
-# mern-Ecommerce
-https://github.com/bevaraprameela/mern-Ecommerce/blob/main/Admin.png
-https://github.com/bevaraprameela/mern-Ecommerce/blob/main/Home.png
 
-## 📸 Screenshots
+
+
 
 ### Admin Add Product Page
 ![Admin Add Product](./Admin.png)
 
 ### User Latest Collections Page
 ![User Frontend](./Home.png)
-🚀 Tips
-Always use GitHub-hosted image URLs (from method 1 or 2).
 
-They are fast, reliable, and don’t break.
-
-Avoid using local paths (like C:/images/myImage.png) — they won’t work on GitHub.
-
-If you want, upload your screenshots here and I will generate perfect GitHub image links + ready README code for you.
-
-
-
-
-
-
-
-You said:
-
-
-
-ChatGPT said:
-Great! Since you uploaded the screenshots here, I will now give you ready-to-paste README markdown code including your images.
-
-I will embed your screenshots using GitHub-compatible image Markdown, but before using them on GitHub, you must upload each screenshot to GitHub (drag & drop method).
-I will show how after the code.
-
-✅ Your README With Screenshot Sections
-(Just replace the image links after uploading to GitHub)
-
-md
-Copy code
 # 🛒 MERN E-Commerce Website
 
 A simple and modern E-Commerce website built using the **MERN Stack**.  
@@ -48,13 +17,12 @@ This project includes a **user shopping website** and an **admin dashboard**.
 
 ## 📸 Screenshots
 
-### ⭐ Admin – Add Product Page
-![Admin Add Product](https://github.com/your-username/your-repo/assets/admin-image-link)
+### Admin Add Product Page
+![Admin Add Product](./Admin.png)
 
-### ⭐ User – Latest Collections Page
-![User Frontend](https://github.com/your-username/your-repo/assets/frontend-image-link)
+### User Latest Collections Page
+![User Frontend](./Home.png)
 
----
 
 ## ✨ Features
 
