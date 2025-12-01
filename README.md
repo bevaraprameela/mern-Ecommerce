@@ -1,13 +1,4 @@
 
-
-
-
-### Admin Add Product Page
-![Admin Add Product](./Admin.png)
-
-### User Latest Collections Page
-![User Frontend](./Home.png)
-
 # 🛒 MERN E-Commerce Website
 
 A simple and modern E-Commerce website built using the **MERN Stack**.  
