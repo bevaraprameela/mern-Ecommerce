@@ -5,10 +5,10 @@ https://github.com/bevaraprameela/mern-Ecommerce/blob/main/Home.png
 ## 📸 Screenshots
 
 ### Admin Add Product Page
-![Admin Add Product](https://github.com/user/repo-name/assets/123456789/admin-image)
+![Admin Add Product](./Admin.png)
 
 ### User Latest Collections Page
-![User Frontend](https://github.com/user/repo-name/assets/123456789/frontend-image)
+![User Frontend](./Home.png)
 🚀 Tips
 Always use GitHub-hosted image URLs (from method 1 or 2).
 
